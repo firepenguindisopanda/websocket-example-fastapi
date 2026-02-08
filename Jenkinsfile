@@ -7,6 +7,12 @@ pipeline {
                 // Add your build steps here
             }
         }
+        stage('Lint') {
+            steps {
+                echo 'Linting...'
+                // Add your linting steps here
+            }
+        }
         stage('Test') {
             steps {
                 echo 'Testing...'
