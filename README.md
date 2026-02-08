@@ -49,5 +49,3 @@ services:
 			- key: PORT
 				value: 10000
 ```
-
-This file should be placed in the root of your repository.
