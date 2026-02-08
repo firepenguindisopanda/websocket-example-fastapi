@@ -1,5 +1,3 @@
-
-
 ## Run the API Locally
 
 ```bash
