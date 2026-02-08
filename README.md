@@ -36,7 +36,6 @@ Render supports WebSockets natively—no extra configuration is needed.
 ### Infrastructure as Code (Optional)
 
 You can use the provided `render.yaml` file for automatic deployment setup:
-
 ```yaml
 services:
 	- type: web
